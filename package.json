@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce site built with NodeJS backend and ReactJS frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanjaw/ecommerce.git"
+  },
+  "author": "Sean Jaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanjaw/ecommerce/issues"
+  },
+  "homepage": "https://github.com/seanjaw/ecommerce#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
